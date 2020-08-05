@@ -1,2 +1,2 @@
-# picture_bed
+# Image_hosting
 Save pictures for markdown
